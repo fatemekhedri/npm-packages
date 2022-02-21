@@ -1,5 +1,5 @@
 {
-  "name": "example-add-package",
+  "name": "@add-dev/example-add-package",
   "version": "2.0.2",
   "description": "this is first npm  package",
   "main": "index.js",
